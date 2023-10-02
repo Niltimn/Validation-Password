@@ -8,7 +8,7 @@
 
 @media screen and (max-width: 600px){
 
-    password-input-box{
+    .password-input-box{
         height: 83vh;
       margin-bottom: 0;
     }
@@ -16,7 +16,7 @@
 
 @media screen and (max-width: 350px){
 
-    password-input-box{
+    .password-input-box{
         height: 100%;
         margin-bottom: 0;
     }
